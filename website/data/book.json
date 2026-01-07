@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A naive do-gooder volunteering at a hostel in a rough neighborhood gets caught in gang crossfire while trying to \"understand both sides.\"",
     "long": ""
   },
   "death_type": "Gang Violence",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He came to make peace. He left in pieces."
 }
